@@ -8,10 +8,10 @@ I'm Prabhat Kumar, an undergraduate Electronics and Communication Engineering st
 <a href="https://www.linkedin.com/in/prabhat-kumar-912837313/" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/Follow%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
  </p>
-</br>
- ### 🧰 Languages and Tools
+
+
+ ### 🧰 Languages and Tools:
 
  
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
