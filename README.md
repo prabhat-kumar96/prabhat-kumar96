@@ -1,10 +1,16 @@
 # 🏄‍♂️ Prabhat Kumar
 
 **`Digital Craftsman (Developer/Student)`**
+
+
 I'm Prabhat Kumar, an undergraduate Electronics and Communication Engineering student at MNNIT Allahabad. Passionate about operating systems, networking, and system programming, I have experience in C, C++, HTML, CSS, JS, MERN, and Python.
+---
 
  <p align="left">
-    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-kumar-912837313/)
+<a href="https://www.linkedin.com/in/prabhat-kumar-912837313/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/Follow%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Follow on LinkedIn">
+</a>
+
  </p>
 
  ### 🧰 Languages and Tools
@@ -24,9 +30,15 @@ I'm Prabhat Kumar, an undergraduate Electronics and Communication Engineering st
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
+
+---
+
 #
-<!--
 <details>
- <summary><h3>👨‍💻 Prabhat's Coding Journey</h3></summary>
-  In 2023, I began my coding journey as an Electronics and Communication Engineering undergraduate student at MNNIT Allahabad. Starting with Python, I developed scripts to automate tasks, which sparked my interest in software development. I then explored C and C++, strengthening my understanding of data structures and algorithms. My curiosity led me to Artificial Intelligence and Machine Learning, where I worked on projects involving pattern recognition and predictive modeling. Participating in intercollegiate hackathons allowed me to collaborate with peers to develop innovative solutions under tight deadlines. Additionally, contributing to open-source projects has enhanced my technical skills and deepened my commitment to the developer community. Each of these experiences has fueled my passion for continuous learning and growth in the field of software development.
--->
+  <summary><h3>👨‍💻 Prabhat's Coding Journey</h3></summary>
+  <p>
+    In 2023, I began my coding journey as an Electronics and Communication Engineering undergraduate student at MNNIT Allahabad. Starting with Python, I developed scripts to automate tasks, which sparked my interest in software development. I then explored C and C++, strengthening my understanding of data structures and algorithms. My curiosity led me to Artificial Intelligence and Machine Learning, where I worked on projects involving pattern recognition and predictive modeling. Participating in intercollegiate hackathons allowed me to collaborate with peers to develop innovative solutions under tight deadlines. Additionally, contributing to open-source projects has enhanced my technical skills and deepened my commitment to the developer community. Each of these experiences has fueled my passion for continuous learning and growth in the field of software development.
+  </p>
+</details>
+
